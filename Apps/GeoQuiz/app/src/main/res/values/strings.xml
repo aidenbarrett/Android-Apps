@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="action_settings">Settings</string>
+    <string name="question_donegal">Donegal is the greatest county in Ireland.</string>
+    <string name="question_falcarragh">Falcarragh has the best beaches in Donegal.</string>
+    <string name="question_ireland">Ireland is the greatest nation in the world.</string>
+    <string name="question_world">Therefore, it\'s probably safe to assume that the worlds\n best beach is in Falcarragh then?</string>
+    <string name="question_beach">It would be pretty great to be on a beach\n instead of E207 right now.</string>
+</resources>

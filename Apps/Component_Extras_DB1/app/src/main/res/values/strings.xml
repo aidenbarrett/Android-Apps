@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Component</string>
+    <string name="title_top">Component Toolbox</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_create_order">Add Component</string>
+    <string name="action_share">Share</string>
+    <string name="title_activity_order">Additional Components</string>
+    <string name="details">Component Details</string>
+
+    <string-array name="Capacitors">
+        <item>0.1uf</item>
+        <item>1uf</item>
+        <item>10uf</item>
+        <item>100uf</item>
+    </string-array>
+
+    <string-array name="Diodes">
+        <item>1N4148</item>
+        <item>1N4001</item>
+        <item>Zenner</item>
+    </string-array>
+
+    <string-array name="Transistors">
+        <item>2N3906 PNP</item>
+        <item>2N3904 NPN</item>
+    </string-array>
+
+    <string-array name="LEDs">
+        <item>RGB</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Yellow</item>
+    </string-array>
+
+    <string-array name="Titles">
+        <item>Main</item>
+        <item>Capacitors</item>
+        <item>Diodes</item>
+        <item>Transistors</item>
+        <item>LEDs</item>
+    </string-array>
+
+    <string name="Open_drawer">Open Drawer</string>
+    <string name="Close_drawer">Close Drawer</string>
+
+    <string name="action_add_component">Add Component</string>
+    <string name="component_hint">Enter a Component name</string>
+    <string name="detail_hint">Enter a list of components in this category</string>
+    <string name="add_component_button_text">Add</string>
+    <string name="toast_no_component">No Component Entered!</string>
+    <string name="toast_no_component_detail">No Component Descriptions Entered!</string>
+
+
+
+
+</resources>
